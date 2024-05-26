@@ -28,7 +28,7 @@ The analysis uses the UCI Online Retail Dataset, which includes transactions fro
 - **Country**: Country of the customer
 
 **Dataset Access:**
-The dataset can be accessed from the UCI Machine Learning Repository available on Kaggle using the link: [UCI Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail).
+The dataset can be accessed from the UCI Machine Learning Repository available on Kaggle using the link: [UCI Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data).
 
 **Data Preparation:**
 Download the dataset, place it in the root directory of the cloned repo, and rename it to `ucs_data.csv` before proceeding with the analysis.
